@@ -1,0 +1,2 @@
+# typeJsSyntax
+typeJs语法
