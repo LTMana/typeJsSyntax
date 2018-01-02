@@ -1,0 +1,23 @@
+{
+  "name": "ts-syntax",
+  "version": "1.0.0",
+  "description": "tapyJS基础语法",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTMana/typeJsSyntax.git"
+  },
+  "author": "LTMana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LTMana/typeJsSyntax/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^8.5.1",
+    "tslint": "^5.8.0"
+  },
+  "homepage": "https://github.com/LTMana/typeJsSyntax#readme"
+}
